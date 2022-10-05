@@ -1,0 +1,1 @@
+This is a create react app template to generate a roboflow react sample app
